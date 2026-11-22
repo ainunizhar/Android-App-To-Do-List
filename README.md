@@ -1,4 +1,4 @@
-# TaskMaster — Android To-Do App
+# TaskMaster - Android To-Do App
 
 **Bachelor project · Bachelor in Computer Forensic (Hons), Management and Science University (2024)**
 
